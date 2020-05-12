@@ -1,0 +1,11 @@
+$_dada-h1: #005951;
+
+.DadaMenu-container {
+    display:block;
+    flex-direction: column;
+    text-align: left;
+    h1 {
+        color: $_dada-h1 !important;
+        text-transform: uppercase;
+    }
+}
